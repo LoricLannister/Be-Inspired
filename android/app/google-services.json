@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "27808056727",
+    "project_id": "be-inspired-84e9d",
+    "storage_bucket": "be-inspired-84e9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27808056727:android:814946e181f6a4ad8330d2",
+        "android_client_info": {
+          "package_name": "com.example.be_inspired"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27808056727-h46lck0rsi5nt09lah5nk6fi2jr21n8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkeTTloaCUTPYiB1-emkKBYc9w_OOERmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27808056727-h46lck0rsi5nt09lah5nk6fi2jr21n8u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "27808056727-ih27hlaeae6kc52ib8mg0ci2knadn5ns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.beInspired"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
